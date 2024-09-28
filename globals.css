@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional styling for react-calendar */
+.react-calendar {
+  width: 100%;
+  max-width: 100%;
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
